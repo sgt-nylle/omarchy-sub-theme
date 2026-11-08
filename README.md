@@ -63,14 +63,14 @@ All four custom wallpapers are rendered at native `2736×1824` (3:2 Retina / Wid
         <img src="backgrounds/03-baltic-sonar-silent-running.png" alt="03 — Baltic Thermocline Silent Running" width="100%">
       </a>
       <br><b>03 · Baltic Thermocline — Silent Running</b>
-      <br>Deep Baltic Sea underwater scene below the halocline with a surface warship hull and cavitation trail above, a 17th-century sunken warship wreck on the seabed, bioluminescent marine life, and a passive/active sonar sweep.
+      <br>Deep Baltic Sea underwater scene below the halocline with a 17th-century sunken warship wreck on the seabed, bioluminescent marine life, and a passive/active sonar sweep.
     </td>
     <td width="50%" align="center">
       <a href="backgrounds/04-dawn-torpedo-run.png">
         <img src="backgrounds/04-dawn-torpedo-run.png" alt="04 — Periscope Convoy Torpedo Run" width="100%">
       </a>
       <br><b>04 · Periscope Convoy Torpedo Salvo (Torped 62)</b>
-      <br>Attack periscope view at Baltic dawn with stadia rangefinding crosshairs locked onto a 4-ship naval convoy (flagship battleship, fleet replenishment oiler, and two escort frigates) as a two-torpedo <i>Torped 62</i> salvo streaks away in perspective through the dark waves.
+      <br>Attack periscope view at Baltic dawn with stadia rangefinding crosshairs locked onto a 4-ship naval convoy (flagship battleship, heavy cruiser, and two escort frigates) as a two-torpedo <i>Torped 62</i> salvo streaks submerged beneath the waves with perspective cavitation wakes aligned onto the targets.
     </td>
   </tr>
 </table>
