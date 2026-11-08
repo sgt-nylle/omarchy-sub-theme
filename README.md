@@ -47,14 +47,14 @@ All four custom wallpapers are rendered at native `2736×1824` (3:2 Retina / Wid
         <img src="backgrounds/01-stockholm-archipelago-night-patrol.png" alt="01 — Stockholm Archipelago Night Departure" width="100%">
       </a>
       <br><b>01 · Stockholm Archipelago Night Departure (Default)</b>
-      <br><i>HSwMS Gotland</i> sailing out on the surface at night through <i>Stockholms skärgård</i> under the Milky Way and northern aurora, past pine-covered granite skerries, a glowing Swedish sector lighthouse (<i>ledfyr</i>), a lit archipelago ferry, and moonlit Baltic waters.
+      <br><i>HSwMS Gotland</i> sailing out on the surface at night through <i>Stockholms skärgård</i> in deep Cold War bluedark steel &amp; anechoic tile detail — featuring lower-hull free-flooding limber slots, sculpted turtleback sail fairings, white escape-trunk deck rings, cold exhaust mist drifting past the bridge, a naval escort tug with lattice radar mast, distant Muskö shipyard cranes, and a silver-blue cratered moon.
     </td>
     <td width="50%" align="center">
       <a href="backgrounds/02-hms-gotland-tactical-blueprint.png">
         <img src="backgrounds/02-hms-gotland-tactical-blueprint.png" alt="02 — HSwMS Gotland Naval Blueprint" width="100%">
       </a>
-      <br><b>02 · HSwMS Gotland (A19) Naval Blueprint</b>
-      <br>Detailed starboard elevation, top-down plan, and three cross-section views (<code>SECTION A–A</code> Stirling AIP &amp; battery deck, <code>STERN · X-RUDDER</code> 4-fin X-rudder &amp; 7-blade skewback propeller, and <code>BOW · TUBES</code> 4× 533mm + 2× 400mm torpedo tubes).
+      <br><b>02 · HSwMS Gotland (A19) Naval Intelligence Blueprint</b>
+      <br>Deep bluedark naval engineering &amp; intelligence plate with internal torpedo reload skids, battery &amp; Stirling AIP compartments, escape trunks, acoustic polar signature rose, a ghosted Cold War Project 941 Typhoon (<i>Red October</i>, 175 m) scale comparison profile, and three cross-sections (<code>SECTION A–A</code>, <code>STERN · X-RUDDER</code>, and <code>BOW · TUBES</code>).
     </td>
   </tr>
   <tr>
@@ -62,15 +62,15 @@ All four custom wallpapers are rendered at native `2736×1824` (3:2 Retina / Wid
       <a href="backgrounds/03-baltic-sonar-silent-running.png">
         <img src="backgrounds/03-baltic-sonar-silent-running.png" alt="03 — Baltic Thermocline Silent Running" width="100%">
       </a>
-      <br><b>03 · Baltic Thermocline — Silent Running</b>
-      <br>Deep Baltic Sea underwater scene below the halocline with a 17th-century sunken warship wreck on the seabed, bioluminescent marine life, and a passive/active sonar sweep.
+      <br><b>03 · Baltic Thermocline — Silent Running (<i>Hunt for Red October</i> Vibe)</b>
+      <br>Deep abyssal bluedark cat-and-mouse scene below the halocline: <i>HSwMS Gotland</i> in full anechoic-tiled stealth trim with red-rigged conn windows and CSU 90-2 flank hydrophone staves pinging a massive Project 941 Typhoon-class submarine lurking in the distant sonar shadow above a sunken warship and tethered naval mine.
     </td>
     <td width="50%" align="center">
       <a href="backgrounds/04-dawn-torpedo-run.png">
         <img src="backgrounds/04-dawn-torpedo-run.png" alt="04 — Periscope Convoy Torpedo Run" width="100%">
       </a>
-      <br><b>04 · Periscope Convoy Torpedo Salvo (Torped 62)</b>
-      <br>Attack periscope view at Baltic dawn with stadia rangefinding crosshairs locked onto a 4-ship naval convoy (flagship battleship, heavy cruiser, and two escort frigates) as a two-torpedo <i>Torped 62</i> salvo streaks submerged beneath the waves with perspective cavitation wakes aligned onto the targets.
+      <br><b>04 · Periscope Convoy Torpedo Salvo (Cold War Bluedark Twilight)</b>
+      <br>Attack periscope view in moody Cold War bluedark twilight with optical lens condensation droplets and stadia rangefinding crosshairs locked onto a 4-ship naval surface group as a two-torpedo <i>Torped 62</i> salvo streaks submerged beneath the dark-blue swell.
     </td>
   </tr>
 </table>
