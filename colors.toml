@@ -1,0 +1,46 @@
+# Gotland Navy · Omarchy 4.5 Theme
+# Inspired by SubWrite (subwrite.se) & TechTools (techtools.subwrite.se)
+# HSwMS Gotland (A19) · Kungliga Flottan · Stirling AIP · Deep Navy Blue Palette
+
+mode = "dark"
+
+# ── Core Naval Identity ────────────────────────────────────────
+accent               = "#38bdf8"   # Periscope / Sonar Cyan-Blue
+selection            = "#164682"   # Tactical Navy Selection
+selection_background = "#164682"
+selection_foreground = "#f8fbff"
+muted                = "#5b82b8"   # Steel-Navy Muted Telemetry
+hairline             = "#1b457d"   # C64 Navy Frame Hairline
+
+# ── Navy Blue Depth Layers ─────────────────────────────────────
+background           = "#07162c"   # Deep Baltic Navy CIC Surface
+dark_background      = "#040e1d"   # Abyssal Navy Trench (-30%)
+darker_background    = "#020812"   # Keel Black-Navy (-55%)
+lighter_background   = "#0f2b52"   # Elevated Navy Subcard / Cursor Line
+
+# ── Telemetry Foregrounds ──────────────────────────────────────
+foreground           = "#e2eeff"   # Crisp Naval Readout White-Blue
+dark_foreground      = "#5b82b8"   # Muted Hydrophone Grid Label
+light_foreground     = "#b8d4fa"   # Secondary Instrument Readout
+bright_foreground    = "#f8fbff"   # Periscope Glint Peak White (Cursor)
+
+# ── 16-Slot ANSI Palette (SubWrite + Kungliga Flottan) ─────────
+red                  = "#ff5c5c"   # SubWrite Torpedo / Red Alert
+yellow               = "#fecc02"   # Swedish Naval Ensign Gold
+orange               = "#fbbf24"   # Sonar Bearing Amber
+green                = "#34d399"   # Passive Sonar Contact Green
+cyan                 = "#38bdf8"   # Stirling AIP Telemetry Cyan
+blue                 = "#5494f7"   # Royal Swedish Navy Blue
+magenta              = "#a78bfa"   # ESM / Acoustic Intercept Violet
+brown                = "#b4833e"   # Naval Brass
+
+bright_red           = "#ff8585"
+bright_yellow        = "#fde047"
+bright_green         = "#4ade80"
+bright_cyan          = "#67e8f9"
+bright_blue          = "#82b5ff"
+bright_magenta       = "#c4b5fd"
+
+# ── Hyprland Window Borders ────────────────────────────────────
+hyprland_active_border   = "rgba(38bdf8ee) rgba(2563ebee) rgba(fecc02cc) 45deg"
+hyprland_inactive_border = "rgba(1b457daa)"
