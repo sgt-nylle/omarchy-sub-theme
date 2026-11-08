@@ -47,14 +47,14 @@ All four custom wallpapers are rendered at native `2736×1824` (3:2 Retina / Wid
         <img src="backgrounds/01-stockholm-archipelago-night-patrol.png" alt="01 — Stockholm Archipelago Night Departure" width="100%">
       </a>
       <br><b>01 · Stockholm Archipelago Night Departure (Default)</b>
-      <br><i>HSwMS Gotland</i> sailing out on the surface at night through <i>Stockholms skärgård</i> past pine-covered granite skerries, a glowing Swedish sector lighthouse (<i>ledfyr</i>), and moonlit Baltic waters.
+      <br><i>HSwMS Gotland</i> sailing out on the surface at night through <i>Stockholms skärgård</i> under the Milky Way and northern aurora, past pine-covered granite skerries, a glowing Swedish sector lighthouse (<i>ledfyr</i>), a lit archipelago ferry, and moonlit Baltic waters.
     </td>
     <td width="50%" align="center">
       <a href="backgrounds/02-hms-gotland-tactical-blueprint.png">
         <img src="backgrounds/02-hms-gotland-tactical-blueprint.png" alt="02 — HSwMS Gotland Naval Blueprint" width="100%">
       </a>
       <br><b>02 · HSwMS Gotland (A19) Naval Blueprint</b>
-      <br>Clean starboard elevation and top-down plan blueprint showing the Kockums V4-275R Stirling AIP cutaway, iconic Swedish X-rudder, bow/flank sonar arrays, and Three Crowns (<i>Tre Kronor</i>) naval emblem.
+      <br>Detailed starboard elevation, top-down plan, and three cross-section views (<code>SECTION A–A</code> Stirling AIP &amp; battery deck, <code>STERN · X-RUDDER</code> 4-fin X-rudder &amp; 7-blade skewback propeller, and <code>BOW · TUBES</code> 4× 533mm + 2× 400mm torpedo tubes).
     </td>
   </tr>
   <tr>
@@ -63,14 +63,14 @@ All four custom wallpapers are rendered at native `2736×1824` (3:2 Retina / Wid
         <img src="backgrounds/03-baltic-sonar-silent-running.png" alt="03 — Baltic Thermocline Silent Running" width="100%">
       </a>
       <br><b>03 · Baltic Thermocline — Silent Running</b>
-      <br>Deep Baltic Sea underwater scene below the halocline/thermocline with volumetric caustic light rays, abyssal seabed ridges, and a geometric passive/active sonar radar sweep.
+      <br>Deep Baltic Sea underwater scene below the halocline with a surface warship hull and cavitation trail above, a 17th-century sunken warship wreck on the seabed, bioluminescent marine life, and a passive/active sonar sweep.
     </td>
     <td width="50%" align="center">
-      <a href="backgrounds/04-subwrite-retro-arcade-patrol.png">
-        <img src="backgrounds/04-subwrite-retro-arcade-patrol.png" alt="04 — SubWrite C64 / 8-Bit Pixel Patrol" width="100%">
+      <a href="backgrounds/04-dawn-torpedo-run.png">
+        <img src="backgrounds/04-dawn-torpedo-run.png" alt="04 — Dawn Torpedo Run" width="100%">
       </a>
-      <br><b>04 · SubWrite 8-Bit Pixel Patrol (Navy Blue Edition)</b>
-      <br>The 8-bit <i>HSwMS Gotland</i> pixel sprite from <a href="https://subwrite.se">SubWrite</a> reimagined in Royal Swedish Navy Blue, Periscope Cyan, and Swedish Gold beneath a starry archipelago horizon.
+      <br><b>04 · Dawn Torpedo Run (Torped 62)</b>
+      <br>A Swedish heavyweight homing torpedo (<i>Torped 62</i>) cruising upward through dark navy water with counter-rotating propellers, wire-guidance filament, cavitation bubble trail, and acoustic homing lock toward a battleship silhouetted against a Baltic dawn horizon.
     </td>
   </tr>
 </table>
