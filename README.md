@@ -67,10 +67,10 @@ All four custom wallpapers are rendered at native `2736×1824` (3:2 Retina / Wid
     </td>
     <td width="50%" align="center">
       <a href="backgrounds/04-dawn-torpedo-run.png">
-        <img src="backgrounds/04-dawn-torpedo-run.png" alt="04 — Dawn Torpedo Run" width="100%">
+        <img src="backgrounds/04-dawn-torpedo-run.png" alt="04 — Periscope Convoy Torpedo Run" width="100%">
       </a>
-      <br><b>04 · Dawn Torpedo Run (Torped 62)</b>
-      <br>A Swedish heavyweight homing torpedo (<i>Torped 62</i>) cruising upward through dark navy water with counter-rotating propellers, wire-guidance filament, cavitation bubble trail, and acoustic homing lock toward a battleship silhouetted against a Baltic dawn horizon.
+      <br><b>04 · Periscope Convoy Torpedo Salvo (Torped 62)</b>
+      <br>Attack periscope view at Baltic dawn with stadia rangefinding crosshairs locked onto a 4-ship naval convoy (flagship battleship, fleet replenishment oiler, and two escort frigates) as a two-torpedo <i>Torped 62</i> salvo streaks away in perspective through the dark waves.
     </td>
   </tr>
 </table>
