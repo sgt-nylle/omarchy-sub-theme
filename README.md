@@ -107,6 +107,16 @@ Every Omarchy 4.5 surface (Hyprland borders, Quickshell bar, menus, launcher, lo
 
 ---
 
+## Community & Related Projects
+
+- **Discord Community:** [https://discord.gg/9uXbaunJb](https://discord.gg/9uXbaunJb)
+- **macOS Port:** [`sgt-nylle/macos-sub-theme`](https://github.com/sgt-nylle/macos-sub-theme)
+- **Windows 11 Port:** [`sgt-nylle/windows-sub-theme`](https://github.com/sgt-nylle/windows-sub-theme)
+- **SubWrite (Submarine Typing Game):** [https://subwrite.se](https://subwrite.se) ([`sgt-nylle/subwrite`](https://github.com/sgt-nylle/subwrite))
+- **TechTools:** [https://techtools.subwrite.se](https://techtools.subwrite.se) ([`sgt-nylle/techtools`](https://github.com/sgt-nylle/techtools))
+
+---
+
 ## License
 
 Released under the [MIT License](LICENSE). Created by [sgt-nylle](https://github.com/sgt-nylle) ([subwrite.se](https://subwrite.se) / [techtools.subwrite.se](https://techtools.subwrite.se)).
