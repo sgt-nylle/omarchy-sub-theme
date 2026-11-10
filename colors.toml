@@ -10,7 +10,7 @@ selection            = "#164682"   # Tactical Navy Selection
 selection_background = "#164682"
 selection_foreground = "#f8fbff"
 muted                = "#5b82b8"   # Steel-Navy Muted Telemetry
-hairline             = "#1b457d"   # C64 Navy Frame Hairline
+hairline             = "#1b457d"   # Clean Navy Frame Hairline
 
 # ── Navy Blue Depth Layers ─────────────────────────────────────
 background           = "#07162c"   # Deep Baltic Navy CIC Surface

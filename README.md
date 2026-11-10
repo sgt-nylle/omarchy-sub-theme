@@ -54,7 +54,7 @@ All four custom wallpapers are rendered at native `2736×1824` (3:2 Retina / Wid
         <img src="backgrounds/02-hms-gotland-tactical-blueprint.png" alt="02 — HSwMS Gotland Naval Blueprint" width="100%">
       </a>
       <br><b>02 · HSwMS Gotland (A19) Naval Intelligence Blueprint</b>
-      <br>Deep bluedark naval engineering &amp; intelligence plate with internal torpedo reload skids, battery &amp; Stirling AIP compartments, escape trunks, acoustic polar signature rose, a ghosted Cold War Project 941 Typhoon (<i>Red October</i>, 175 m) scale comparison profile, and three cross-sections (<code>SECTION A–A</code>, <code>STERN · X-RUDDER</code>, and <code>BOW · TUBES</code>).
+      <br>Deep bluedark naval engineering &amp; intelligence plate with internal torpedo reload skids, battery &amp; Stirling AIP compartments, escape trunks, acoustic polar signature rose, a ghosted Cold War Project 941 Typhoon (175 m) scale comparison profile, and three cross-sections (<code>SECTION A–A</code>, <code>STERN · X-RUDDER</code>, and <code>BOW · TUBES</code>).
     </td>
   </tr>
   <tr>
@@ -62,7 +62,7 @@ All four custom wallpapers are rendered at native `2736×1824` (3:2 Retina / Wid
       <a href="backgrounds/03-baltic-sonar-silent-running.png">
         <img src="backgrounds/03-baltic-sonar-silent-running.png" alt="03 — Baltic Thermocline Silent Running" width="100%">
       </a>
-      <br><b>03 · Baltic Thermocline — Silent Running (<i>Hunt for Red October</i> Vibe)</b>
+      <br><b>03 · Baltic Thermocline — Silent Running (Clean Tactical Vibe)</b>
       <br>Deep abyssal bluedark cat-and-mouse scene below the halocline: <i>HSwMS Gotland</i> in full anechoic-tiled stealth trim with red-rigged conn windows and CSU 90-2 flank hydrophone staves pinging a massive Project 941 Typhoon-class submarine lurking in the distant sonar shadow above a sunken warship and tethered naval mine.
     </td>
     <td width="50%" align="center">
