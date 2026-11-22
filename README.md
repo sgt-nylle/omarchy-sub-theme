@@ -75,8 +75,8 @@ All five custom wallpapers are rendered at native `2736×1824` (3:2 Retina / Wid
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="backgrounds/05-xmas-periscope-patrol.png">
-        <img src="backgrounds/05-xmas-periscope-patrol.png" alt="05 — Baltic Xmas Periscope Patrol" width="50%">
+      <a href="backgrounds/05-xmas-periscope-patrol.webp">
+        <img src="backgrounds/05-xmas-periscope-patrol.webp" alt="05 — Baltic Xmas Periscope Patrol" width="50%">
       </a>
       <br><b>05 · Baltic Xmas Periscope Patrol (Holiday Edition)</b>
       <br><i>HSwMS Gotland</i> at periscope depth beneath the calm Baltic Sea on a snowy winter night, sporting a festive red-and-white Santa hat perched on the attack periscope against a starry sky, silver-blue moon, and distant archipelago cabin glow.
@@ -112,7 +112,7 @@ Every Omarchy 4.5 surface (Hyprland borders, Quickshell bar, menus, launcher, lo
 - `shell.bar.toml`, `shell.controls.toml`, `shell.lock.toml`, `shell.launcher.toml`, `shell.menu.toml`, `shell.popups.toml`, `shell.tooltip.toml` — Coordinated Navy Blue Quickshell bar, menus, and lock screen
 - `icons.theme` — `Yaru-blue` icon theme selection
 - `unlock.png` & `preview-unlock.png` — Custom `HSwMS Gotland (A19)` lock/unlock emblem
-- `backgrounds/` — 5 original `2736×1824` PNG wallpapers
+- `backgrounds/` — 5 original `2736×1824` wallpapers
 
 ---
 
